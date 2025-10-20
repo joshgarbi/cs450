@@ -1,4 +1,4 @@
-# Names: Josh Garbi, 
+# Names: Josh Garbi, Andrew F.
 # Lab: Lab3 (Advanced Prompt Engineering)
 # Date: 10-17-25
 
